@@ -1,0 +1,15 @@
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\bin\Debug\net6.0\Game.exe
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\bin\Debug\net6.0\Game.dll
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.dll
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\Game\obj\Debug\net6.0\ref\Game.dll

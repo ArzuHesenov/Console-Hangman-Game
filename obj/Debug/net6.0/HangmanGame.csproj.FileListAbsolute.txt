@@ -1,0 +1,5 @@
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.AssemblyReference.cache
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\obj\Debug\net6.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfo.cs
+C:\Users\arzuh\Desktop\10.06.2022\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.CoreCompileInputs.cache
